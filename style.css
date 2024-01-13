@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+p {
+    font-family: Arial;
+    font-size: 13px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 50px 0;
+    bottom: 0;
+    background-color: black;
+    position: absolute;
+    width: 100%;
+    color: white;
+}
+a {
+    bottom: 120px;
+    position: absolute;
+ 
+}
